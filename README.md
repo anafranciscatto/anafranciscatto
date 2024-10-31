@@ -7,9 +7,10 @@ Sou apaixonada por design e interfaces interativas. Com 17 anos e atualmente est
 
 ### 📊 Meu GitHub em Números
 <!-- Widgets de Estatísticas do GitHub -->
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=radical)
-
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?github.com/anafranciscatto
+&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?github.com/anafranciscatto
+&layout=compact&theme=radical)
 ---
 
 ### 🛠️ Minhas Competências

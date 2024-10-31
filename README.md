@@ -31,9 +31,4 @@ Sou apaixonada por design e interfaces interativas. Com 17 anos e atualmente est
 ![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=anafranciscatto&theme=radical)
 
 ---
-
-### 🐍 Contribuições Recentes
-![Snake animation](https://github.com/anafranciscatto/anafranciscatto/blob/output/github-contribution-grid-snake.svg)
-
----
 Espero que goste do meu trabalho! 😊

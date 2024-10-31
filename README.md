@@ -20,12 +20,6 @@ Sou apaixonada por design e interfaces interativas. Com 17 anos e atualmente est
 - **SQL**
 - **Git** e versionamento de código
 
-### 📈 Progresso nas Linguagens
-
-<!-- Widget para mostrar tempo de uso das linguagens -->
-<!-- Requer conta no WakaTime e chave API -->
-![Linguagens mais usadas (última semana)](https://github-readme-stats.vercel.app/api/wakatime?username=anafranciscatto&layout=compact&theme=radical)
-
 ---
 
 ### 🔄 Últimas Atividades

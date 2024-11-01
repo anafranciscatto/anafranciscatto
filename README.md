@@ -16,7 +16,7 @@ Sou apaixonada por design e interfaces interativas. Com 17 anos e atualmente est
 - **JavaScript**
 - **CSS**
 - **HTML**
-- **Python** (com especialidade em Pandas)
+- **Python** 
 - **SQL**
 - **Git** e versionamento de código
 

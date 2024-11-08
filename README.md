@@ -1,4 +1,4 @@
-# Hello, world! 👋 
+# Hello, world! 👋
 
 ### Me chamo Ana Beatriz
 Sou apaixonada por design e interfaces interativas. Com 17 anos e atualmente estudando **Análise e Desenvolvimento de Sistemas**, adoro criar experiências dinâmicas e funcionais.
@@ -35,8 +35,19 @@ Aqui estão alguns dos meus projetos mais recentes e em andamento:
 - [**Easy Request**](https://github.com/anafranciscatto/EASY-REQUEST): Plataforma em desenvolvimento para gerenciamento de chamados e suporte interno, permitindo a criação, acompanhamento e encerramento de chamados. Esse projeto faz parte do meu TCC.
 
 ---
+
+### 🌐 Contatos
+
+- [🔗 Portfólio](#)  <!-- Insira o link para o seu portfólio aqui -->
+- [🔗 LinkedIn](https://www.linkedin.com/in/ana-beatriz-xx/) <!-- Substitua pelo seu link real -->
+- [📸 Instagram](https://www.instagram.com/ana_beatriz_xx/) <!-- Substitua pelo seu link real -->
+
+---
+
 ### 🏆 Troféus do GitHub
 ![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=anafranciscatto&theme=radical)
 
 ---
+
 Espero que goste do meu trabalho! 😊
+

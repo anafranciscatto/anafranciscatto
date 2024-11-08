@@ -39,7 +39,7 @@ Aqui estão alguns dos meus projetos mais recentes e em andamento:
 ### 🌐 Contatos
 
 - [🔗 Portfólio](#)  <!-- Insira o link para o seu portfólio aqui -->
-- [🔗 LinkedIn](https://www.linkedin.com/in/ana-beatriz-xx/) <!-- Substitua pelo seu link real -->
+- [🔗 LinkedIn](https://br.linkedin.com/in/ana-beatriz-camassuti?trk=public_profile_samename-profile)
 - [📸 Instagram](https://www.instagram.com/ana_beatriz_xx/) <!-- Substitua pelo seu link real -->
 
 ---
@@ -50,4 +50,3 @@ Aqui estão alguns dos meus projetos mais recentes e em andamento:
 ---
 
 Espero que goste do meu trabalho! 😊
-

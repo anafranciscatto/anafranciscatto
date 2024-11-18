@@ -40,7 +40,7 @@ Aqui estão alguns dos meus projetos mais recentes e em andamento:
 
 - [🔗 Portfólio](#)  <!-- Insira o link para o seu portfólio aqui -->
 - [🔗 LinkedIn](https://br.linkedin.com/in/ana-beatriz-camassuti?trk=public_profile_samename-profile)
-- [📸 Instagram](https://www.instagram.com/ana_beatriz_xx/) <!-- Substitua pelo seu link real -->
+- 📞(16) 99350-6485
 
 ---
 

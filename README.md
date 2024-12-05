@@ -15,6 +15,13 @@ Sou apaixonada por design e interfaces interativas. Com 17 anos e atualmente est
 
 ---
 
+### 📊 Meu GitHub em Números  
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=anafranciscatto&show_icons=true&theme=radical)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=anafranciscatto&layout=compact&theme=radical)  
+
+---
+
 ### 📚 Meus Projetos  
 
 #### **Projetos Recentes**  
@@ -38,14 +45,6 @@ Aqui estão alguns dos projetos que desenvolvi com paixão:
 - 📧 beatriz.franciscatto@gmail.com  
 
 ---
-
-### 📊 Meu GitHub em Números  
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=anafranciscatto&show_icons=true&theme=radical)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=anafranciscatto&layout=compact&theme=radical)  
-
----
-
 ### 🏆 Troféus do GitHub  
 ![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=anafranciscatto&theme=radical)  
 

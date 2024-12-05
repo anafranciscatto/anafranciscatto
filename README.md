@@ -1,51 +1,53 @@
 # Hello, world! 👋
 
-### Me chamo Ana Beatriz
+### Me chamo Ana Beatriz  
 Sou apaixonada por design e interfaces interativas. Com 17 anos e atualmente estudando **Análise e Desenvolvimento de Sistemas**, adoro criar experiências dinâmicas e funcionais.
 
 ---
 
-### 📊 Meu GitHub em Números
-<!-- Widgets de Estatísticas do GitHub -->
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=anafranciscatto&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=anafranciscatto&layout=compact&theme=radical)
+### 🛠️ Minhas Competências  
+- **JavaScript**  
+- **CSS**  
+- **HTML**  
+- **Python**  
+- **SQL**  
+- **Git** e versionamento de código  
 
 ---
 
-### 🛠️ Minhas Competências
-- **JavaScript**
-- **CSS**
-- **HTML**
-- **Python** 
-- **SQL**
-- **Git** e versionamento de código
+### 📚 Meus Projetos  
+
+#### **Projetos Recentes**  
+Aqui estão alguns dos projetos que desenvolvi com paixão:
+
+| Projeto | Descrição | Tecnologias | Repositório |
+|---------|-----------|-------------|-------------|
+| **[Easy Request](https://github.com/anafranciscatto/EASY-REQUEST)** | Plataforma para gestão de chamados e suporte interno. | HTML, CSS, Flask, Python, MySQL | [GitHub](https://github.com/anafranciscatto/EASY-REQUEST) |
+| **[Sushi Koi](https://github.com/anafranciscatto/Sushi-Koi)** | Site fictício de restaurante japonês, com design responsivo. | HTML, CSS, JavaScript, Python | [GitHub](https://github.com/anafranciscatto/Sushi-Koi) |
+| **[Pão dos Anjos](https://github.com/anafranciscatto/pao-dos-anjos)** | Aplicativo de vendas de padaria, destacando UX/UI. | HTML, CSS, JavaScript | [GitHub](https://github.com/anafranciscatto/pao-dos-anjos) |
+| **[Zona Gamer](https://github.com/anafranciscatto/Zona-Gamer)** | Plataforma para gamers, com novidades e recursos interativos. | HTML, CSS, Flask, Python | [GitHub](https://github.com/anafranciscatto/Zona-Gamer) |
+| **[Douce Vie](https://github.com/anafranciscatto/Douce-Vie)** | Website para marca de doces artesanais com design interativo. | HTML, CSS, JavaScript | [GitHub](https://github.com/anafranciscatto/Douce-Vie) |
 
 ---
 
-### 🔄 Últimas Atividades
+### 🌐 Contatos  
 
-Aqui estão alguns dos meus projetos mais recentes e em andamento:
-
-- [**Ana's Flora**](https://github.com/anafranciscatto/2ds_t1_ANAS-FLORA): Projeto de perfumaria com funcionalidades de login, cadastro de produtos e carrinho de compras. Criado para fins educacionais e desenvolvido com Flask.
-
-- [**Sushi Koi**](https://github.com/anafranciscatto/Sushi-Koi): Um site fictício de restaurante japonês, com design responsivo e visual atraente, desenvolvido usando HTML, CSS, Python e JavaScript.
-
-- [**Dolce Vie**](https://github.com/anafranciscatto/2ds_t1_DolceVie): Website conceitual para uma marca de doces artesanais, destacando uma experiência de usuário visual e interativa.
-
-- [**Easy Request**](https://github.com/anafranciscatto/EASY-REQUEST): Plataforma em desenvolvimento para gerenciamento de chamados e suporte interno, permitindo a criação, acompanhamento e encerramento de chamados. Esse projeto faz parte do meu TCC.
+- [🔗 Portfólio](#) <!-- Insira o link para o seu portfólio aqui -->  
+- [🔗 LinkedIn](https://br.linkedin.com/in/ana-beatriz-camassuti?trk=public_profile_samename-profile)  
+- 📞(16) 99350-6485  
+- 📧 beatriz.franciscatto@gmail.com  
 
 ---
 
-### 🌐 Contatos
+### 📊 Meu GitHub em Números  
 
-- [🔗 Portfólio](#)  <!-- Insira o link para o seu portfólio aqui -->
-- [🔗 LinkedIn](https://br.linkedin.com/in/ana-beatriz-camassuti?trk=public_profile_samename-profile)
-- 📞(16) 99350-6485
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=anafranciscatto&show_icons=true&theme=radical)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=anafranciscatto&layout=compact&theme=radical)  
 
 ---
 
-### 🏆 Troféus do GitHub
-![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=anafranciscatto&theme=radical)
+### 🏆 Troféus do GitHub  
+![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=anafranciscatto&theme=radical)  
 
 ---
 

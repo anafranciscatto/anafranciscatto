@@ -31,7 +31,6 @@ Amo transformar ideias em projetos com identidade visual marcante e interfaces f
 
 - 👩‍🎓 **Técnica em Desenvolvimento de Sistemas**  
 - 🎓 **Graduanda em Engenharia de Software**  
-- 🏅 *Cursos complementares em UI/UX, Python e Desenvolvimento Web (em breve aqui!)*  
 
 ---
 
@@ -65,7 +64,7 @@ Amo transformar ideias em projetos com identidade visual marcante e interfaces f
 ## 🌐 Vamos nos conectar?
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ana-beatriz-camassuti/)
-- 🌎 [Portfólio](#) <!-- Adicione seu portfólio se quiser! -->
+- 🌎 [Portfólio](#)
 - 📧 beatriz.franciscatto@gmail.com
 - 📱 (16) 99350-6485
 

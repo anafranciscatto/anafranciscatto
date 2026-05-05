@@ -1,36 +1,37 @@
-# 👩‍💻 Ana Beatriz Camassuti Franciscatto
+# 👩‍💻 Ana Beatriz Camassuti Franciscatto da Silva
 
 🌟 *Design com propósito, código com criatividade!*  
-🎓 Técnica em Desenvolvimento de Sistemas | 🎓 Estudante de Engenharia de Software 
+🎓 Técnica em Desenvolvimento de Sistemas (SENAI) | 🎓 Graduanda em Engenharia de Software
 
 ---
 
 ## 💁‍♀️ Sobre mim
 
 Oi! Eu sou a Ana Beatriz — desenvolvedora, designer e eterna curiosa!  
-Sou técnica formada em **Desenvolvimento de Sistemas** e atualmente curso **Engenharia de Software**, com foco em criar soluções que aliam tecnologia, design e experiência do usuário.
+Sou técnica formada em **Desenvolvimento de Sistemas** pelo **Escola SENAI Araraquara** e atualmente curso **Engenharia de Software**, com foco em criar soluções que aliam tecnologia, design e experiência do usuário.
 
-Amo transformar ideias em projetos com identidade visual marcante e interfaces funcionais. Se for responsivo, acessível e bonito… é comigo mesmo! ✨
+Amo transformar ideias em projetos com identidade visual marcante e interfaces funcionais. Se for responsivo, acessível e bonito… é comigo mesmo! ✨ Recentemente, celebrei minha colação de grau no SENAI, um marco importante na minha jornada tecnológica.
 
 ---
 
 ## 🧰 Tecnologias que uso com carinho
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" title="Flask" />
 </p>
 
 ---
 
 ## 📚 Certificações e Formação
 
-- 👩‍🎓 **Técnica em Desenvolvimento de Sistemas**  
-- 🎓 **Graduanda em Engenharia de Software**  
+- 👩‍🎓 **Técnica em Desenvolvimento de Sistemas** - Escola SENAI Araraquara (Concluído em 2024)
+- 🎓 **Graduanda em Engenharia de Software** - (Em andamento)
 
 ---
 
@@ -64,7 +65,7 @@ Amo transformar ideias em projetos com identidade visual marcante e interfaces f
 ## 🌐 Vamos nos conectar?
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ana-beatriz-camassuti/)
-- 🌎 [Portfólio](#)
+- 🌎 [Portfólio](https://github.com/anafranciscatto)
 - 📧 beatriz.franciscatto@gmail.com
 - 📱 (16) 99350-6485
 
